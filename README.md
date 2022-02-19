@@ -7,3 +7,4 @@
 [![Behance Badge](https://img.shields.io/badge/-Matheus%20Gomes-6633cc?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/matheusgomesbs/)](https://www.behance.net/matheusgomesbs/)
 
 ![Matheus Gomes GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusgomesbs&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomesbs&layout=compact&show_icons=true&theme=dark)](https://github.com/matheusgomesbs/)
