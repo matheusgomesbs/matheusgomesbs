@@ -7,7 +7,6 @@
 [![Behance Badge](https://img.shields.io/badge/-Matheus%20Gomes-6633cc?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/matheusgomesbs/)](https://www.behance.net/matheusgomesbs/)
 
 <div align="left">
-  <a href="https://github.com/matheusgomesbs/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgomesbs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomesbs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusgomesbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgomesbs&layout=compact&langs_count=7&theme=dark"/>
 </div>
